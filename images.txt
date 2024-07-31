@@ -1,1 +1,1 @@
-ubuntu:18.04
+ubuntu/python:3.8-20.04
